@@ -37,7 +37,7 @@ dist/
 *.exe
 *.json
 *.DS_Store
-*.pdf
+
 *.xlsx
 *ipynb
 
