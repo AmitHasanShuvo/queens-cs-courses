@@ -18,8 +18,8 @@ dist/
 .csv
 .ipynb/
 .dist/
-
-.DS_Store
+.idea/
+.DS_Store/
 
 
 # Executables
